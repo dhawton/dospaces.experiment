@@ -6,3 +6,5 @@ TODO
 - Refractor, especially configuration
 - Rework logging
 - Setup Dockerfile
+- Fix Makefile
+- Maybe clean up directory structure?
